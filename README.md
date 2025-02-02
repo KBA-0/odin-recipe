@@ -1,3 +1,3 @@
 # odin-recipe
 
-This is my favorit food
+This is my favorite food
